@@ -1,14 +1,14 @@
 # Budget-Tracker
 
 ## Description 
-Weather-Dashboard is a dashboard that will run in the browser and feature dynamically updated HTML and CSS.
-It uses the OpenWeather One Call API to retrieve weather data for cities across the nation.
+Budget Tracker is a progressive web application that allows users to add expenses and deposits to their budget with or without an internet connection.
 
 # Technologies Utilized
 * HTML
 * CSS
-* JavaScript/jQuery
-* BootStrap
+* JavaScript
+* IndexedDB/NoSQL
+*
 
 
 ![Todd's weather dashboard](assets/images/pwa.png)

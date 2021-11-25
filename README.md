@@ -8,7 +8,7 @@ Budget Tracker is a progressive web application that allows users to add expense
 * CSS
 * JavaScript
 * IndexedDB/NoSQL
-*
+
 
 
 ![Todd's weather dashboard](assets/images/pwa.png)

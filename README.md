@@ -14,4 +14,4 @@ Budget Tracker is a progressive web application that allows users to add expense
 ![Todd's weather dashboard](assets/images/pwa.png)
 
 ## Deployed Website
-https://todd1terry1.github.io/Weather-Dashboard/
+https://todd1terry1.github.io/Budget-Tracker/
